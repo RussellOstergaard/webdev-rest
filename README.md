@@ -10,4 +10,4 @@ Change directory to the folder containing the respository and run:
 ```
 node rest_server.mjs
 ```
-Once the erver is running you can visit the website with your browser at http://localhost:8000.
+Once the server is running you can visit the website with your browser at http://localhost:8000.
